@@ -1,3 +1,3 @@
 # Calculator Project..
-Project that i made during internship.
-stack used - HTML, CSS, Javasript..
+Project that i made during the internship..
+Frontend stack used - HTML, CSS, Javasript..
